@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hack_WiFi_BF", "Hack_WiFi_BF.csproj", "{64D9E2F2-BE0B-4BE1-BAD9-7F91AD509523}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64D9E2F2-BE0B-4BE1-BAD9-7F91AD509523}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64D9E2F2-BE0B-4BE1-BAD9-7F91AD509523}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64D9E2F2-BE0B-4BE1-BAD9-7F91AD509523}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64D9E2F2-BE0B-4BE1-BAD9-7F91AD509523}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9421CF5-17C5-4BC7-BB58-7DCC3C57AE94}
+	EndGlobalSection
+EndGlobal
